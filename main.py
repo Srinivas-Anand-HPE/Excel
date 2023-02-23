@@ -3,6 +3,6 @@ def hello():
 
 
 def bye():
-
+    print("hi")
     
 print(hello())
