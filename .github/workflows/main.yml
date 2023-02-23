@@ -1,2 +1,0 @@
-- name: kube-score check
-  uses: piraces/kube-score-ga@v0.1.3
